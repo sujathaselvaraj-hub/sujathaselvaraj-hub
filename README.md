@@ -1,7 +1,7 @@
 <h1 align="center"> .ᐟsujatha's den🐇་࿐</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=D3968C&background=0A3323&center=true&vCenter=true&width=650&height=50&lines=Building+cool+things+with+code;Always+learning%2C+always+building;Let's+have+some+funnn!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=D3968C&background=0A3323&center=true&vCenter=true&width=650&height=50&lines=building+cool+things+with+code;always+learning%2C+always+building+and+slaying;let's+have+some+funnn!" alt="Typing SVG" />
 </p>
 
 <p align="center">
