@@ -28,15 +28,7 @@
 
 ### 𖹭.ᐟ stats 𖹭.ᐟ
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-orcin-seven-86.vercel.app/api?username=sujathaselvaraj-hub&show_icons=true&hide_border=true&bg_color=0A3323&title_color=D3968C&icon_color=839958&text_color=F7F4D5" />
- 
-
-
-
-
-<p align="center">────୨ৎ────</p>
-
+welp the api key ain't working! sooooo sorry.
 ---
 
 ### ‧₊˚⋅♡⋆ streak!! ⋆♡⋅ ‧₊˚
