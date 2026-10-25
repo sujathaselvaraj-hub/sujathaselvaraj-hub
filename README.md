@@ -26,10 +26,8 @@
 
 ---
 
-### 𖹭.ᐟ stats 𖹭.ᐟ
 
-welp the api key ain't working! sooooo sorry.
----
+
 
 ### ‧₊˚⋅♡⋆ streak!! ⋆♡⋅ ‧₊˚
 <p align="center">
@@ -39,12 +37,6 @@ welp the api key ain't working! sooooo sorry.
 <p align="center">────୨ৎ────</p>
 
 ---
-
-### 🕸 current fav language 𓆙
-<p align="center">
- <img height="180em" src="https://github-readme-stats-orcin-seven-86.vercel.app/api/top-langs/?username=sujathaselvaraj-hub&layout=compact&hide_border=true&bg_color=0A3323&title_color=D3968C&text_color=F7F4D5" /> </p>
-
-<p align="center">────୨ৎ────</p>
 
 
 
