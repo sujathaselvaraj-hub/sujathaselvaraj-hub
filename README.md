@@ -45,7 +45,7 @@
 ### ⋆˚꩜｡ ivnventory! ⋆˚꩜｡
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,arch,js,ts,react,nodejs,git,github,html,css&theme=dark" />
 </p>
 
 <p align="center">────୨ৎ────</p>
